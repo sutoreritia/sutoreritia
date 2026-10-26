@@ -12,7 +12,7 @@ I am developing my Python and backend engineering skills through hands-on projec
 
 | Project | What it demonstrates | Technologies |
 | --- | --- | --- |
-| [Rental Rights: RAG + Knowledge Graph](https://github.com/sutoreritia/rental-rights-rag-kg) | Three-system comparison for rental-rights Q&A; retrieval and graph context | Python, TAIDE, Gradio, Neon/pgvector, Neo4j |
+| [Rental Rights: RAG + Knowledge Graph](https://github.com/sutoreritia/rental-rights-rag-kg) | Three-system comparison for rental-rights Q&A; retrieval and graph context | Python, TAIDE, Gradio, Neon/FAISS, Neo4j |
 | [SecureGate](https://github.com/sutoreritia/securegate-python-authentication) | Local authentication CLI with TOTP, password recovery and event logs | Python, SQLite, PBKDF2, TOTP |
 | [FastAPI Service Practice](https://github.com/sutoreritia/fastapi_service_practice) | HTTP health endpoints and a separate rule-based operations assistant | FastAPI, Python, pytest |
 | [Customer Data Platform](https://github.com/sutoreritia/customer_data_platform) | Customer/order management and revenue reports | Python, SQLAlchemy, SQLite, Pandas |
