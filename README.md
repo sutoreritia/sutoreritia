@@ -54,7 +54,7 @@ I am developing my Python and backend engineering skills through hands-on projec
 
 | 專案 | 展示重點 | 技術 |
 | --- | --- | --- |
-| [租屋權益 RAG + KG](https://github.com/sutoreritia/rental-rights-rag-kg) | 三系統問答比較、文件檢索、知識圖譜輔助推理 | Python、TAIDE、Gradio、Neon/pgvector、Neo4j |
+| [租屋權益 RAG + KG](https://github.com/sutoreritia/rental-rights-rag-kg) | 三系統問答比較、文件檢索、知識圖譜輔助推理 | Python、TAIDE、Gradio、Neon/FAISS、Neo4j |
 | [SecureGate](https://github.com/sutoreritia/securegate-python-authentication) | 本機身分驗證、TOTP、密碼復原與事件紀錄 | Python、SQLite、PBKDF2、TOTP |
 | [FastAPI 練習](https://github.com/sutoreritia/fastapi_service_practice) | HTTP API 與獨立的規則式營運任務助理 | FastAPI、Python、pytest |
 | [客戶資料平台](https://github.com/sutoreritia/customer_data_platform) | 客戶／訂單資料管理、營收查詢與報表匯出 | Python、SQLAlchemy、SQLite、Pandas |
